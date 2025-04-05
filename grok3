@@ -1,0 +1,10 @@
+Please modify the above program as : 
+divide the window as 6x6 grid , 
+and display image1.jpg when press "1" and 
+display image2.jpg when press "2" and 
+display image3.jpg when press "3" and 
+display image4.jpg when press "4" at one grid , 
+and move the displayed image to left grid when "left-arrow" key pressed, 
+and move the displayed image to right grid when "right-arrow" key pressed and 
+move the displayed image to down grid when "down-arrow" key pressed and 
+move the displayed image to up grid when "up-arrow" key pressed

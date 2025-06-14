@@ -3,12 +3,21 @@ Cygwin required install:
 Qt5:
 "qt5-base"  for run-time
 "qt5-devel" for qmake
-"libGL-devel" , "libGL1" for -lGL
+"libGL-devel" , 
+"libGL1" for -lGL
 
 X11: QT5 need X11 library for initialize GUI
 "xorg-server"
 "xinit"
 "xterm"
+
+"vim"
+"nano"
+"gvim"
+"cmake"
+"make"
+"g++"
+
 
 Step:
 1. edit xxx.pro
